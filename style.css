@@ -215,7 +215,7 @@ nav ul li a:hover::after{
 
 .services-list div:hover {
     background: #ff004f;
-    transform: translateY(-10px);
+    /*transform: translateY(-10px);*/
 }
 
 /*Projects*/
